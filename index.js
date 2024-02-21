@@ -72,6 +72,8 @@ const game = new Game();
 
 console.log(game);
 
+console.log(`Alex is working to finish the game next`)
+
 
 
 
