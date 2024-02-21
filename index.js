@@ -72,13 +72,6 @@ const game = new Game();
 
 console.log(game);
 
-console.log(`Alex is working to finish the game next`)
-
-
-
-
-
-
 
 
 
@@ -89,3 +82,14 @@ console.log(`Alex is working to finish the game next`)
 // face.innerText = `${ace.face} ${ace.suit}`;
 // card.append(face);
 // document.body.append(card);
+
+/*
+    make changes
+    git status
+    git add . (stage)
+    git commit -m "Message here" (actually takes the snapshot)
+
+    //place your local repo a few "steps/commits" ahead of your online repo
+
+    git push
+*/
